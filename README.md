@@ -1,2 +1,2 @@
-# NCCU_python_tutorial
+# NCCU_coding_is_magic
 Freshman python group
